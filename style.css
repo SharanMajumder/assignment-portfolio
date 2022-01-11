@@ -14,7 +14,7 @@ section{
     font-size: 60px;
 }
 .border-left{
-    border-left:7px solid orange;
+    border-left:7px solid orangered;
 }
 .button{
     color: aliceblue;
@@ -27,5 +27,36 @@ section{
     width: 50%;
 }
 .half-width img{
+    width: 75%;
+}
+.blue-color{
+    color: blue;
+}
+#mission{
+    background-image: linear-gradient(rgb(224, 196, 200),white);
+    padding: 2%;
+    border-radius: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+.image-size{
+    width: 50%;
+}
+#mission-one{
+    background-image: linear-gradient(tomato,white);
+    padding: 2%;
+    border-radius: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#mission-two{
+    background-image: linear-gradient(blue,white);
+    padding: 2%;
+    border-radius: 10px;
+    margin-right: 1%;
+    margin-left: 1%;
+}
+#secound-page{
+    padding: 5%;
     width: 75%;
 }
