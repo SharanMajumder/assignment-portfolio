@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    display: flex;
+    padding-left: 5%;
+    margin-bottom: 10%;
+}
+.mission-color{
+    color: orange;
+}
+.font-weight{
+    font-weight: 700;
+    font-size: 60px;
+}
+.border-left{
+    border-left:7px solid orange;
+}
+.button{
+    color: aliceblue;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 6px 10px;
+    text-decoration: none;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 75%;
+}
