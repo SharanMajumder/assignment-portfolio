@@ -60,3 +60,21 @@ section{
     padding: 5%;
     width: 75%;
 }
+#background-add{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-position: left;
+    border-radius: 10px;
+}
+footer{
+    background-color: navy;
+    text-align: center;
+    color: white;
+}
+.tomato{
+    color: tomato;
+}
+#align{
+    margin-top: 80px;
+}
